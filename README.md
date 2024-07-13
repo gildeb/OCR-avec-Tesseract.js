@@ -1,5 +1,13 @@
 Reconnaissance des caractères à l'aide du module javascript Tesseract, dans les images du flux vidéo envoyé par l'ESP32-cam vers le terminal (PC, smartphone).
 
+
+https://github.com/user-attachments/assets/5703b561-69f8-49c5-beba-7b22765f1160
+
+
+
+https://github.com/user-attachments/assets/20fa7589-f346-4a5a-ad28-5c4617dbf2f1
+
+
 # Installation
 
 - charger le firmware micropython (_micropython_camera_feeeb5ea3_esp32_idf4_4.bin_) sur l'ESP32-cam
