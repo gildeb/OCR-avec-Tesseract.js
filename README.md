@@ -1,1 +1,0 @@
-# OCR-avec-Tesseract.js
